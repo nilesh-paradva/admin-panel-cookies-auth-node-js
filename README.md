@@ -42,4 +42,4 @@ This project aims to build an admin panel that allows users to register, sign in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/login-signup-admin-panel.git
+   git clone https://github.com/nilesh-paradva/admin-panel-cookies-auth-node-js.git
