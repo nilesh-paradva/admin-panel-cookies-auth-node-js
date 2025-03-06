@@ -40,14 +40,14 @@ This project aims to build an admin panel that allows users to register, sign in
 
 ### Steps to Run the Project Locally
 
-1. Clone the repository:
+1. Clone the repository :
    ```bash
    git clone https://github.com/nilesh-paradva/admin-panel-cookies-auth-node-js.git
    
-2. Navigate into the project folder:
+2. Navigate into the project folder :
    ```bash
    cd login-signup-admin-panel
 
-3. Install the dependencies:
+3. Install the dependencies :
    ```bash
    npm install
